@@ -25,6 +25,8 @@ The goal is to give the reader a sense of the python coding applications created
 
 ## Table of contents
 
+The python applications can be found on the master branch.
+
 **1.Logical Operators - Award**
 A program that determines the award a person competing a triathlon will receive using if, elif, else statements.
 
